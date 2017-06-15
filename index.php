@@ -1,11 +1,11 @@
 <?php
 /**
- * 这是typecho系统的一套默认皮肤。你可以在<a href="http://typecho.org">typecho的官方网站</a>获得更多关于此皮肤的信息
+ * PaperType,A Typecho Theme
  * 
- * @package Typecho Default Theme 
- * @author typecho
+ * @package PaperType
+ * @author 野狼
  * @version 1.0.0
- * @link http://typecho.org
+ * @link https://www.sstype.com
  */?>
 <?php $this->need('header.php'); ?>
 		<div id="banner" class="jumbotron hidden-xs">
