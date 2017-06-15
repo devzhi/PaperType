@@ -6,10 +6,7 @@
 			<h4 class="text-center"><small>发表于 <?php $this->date('Y年n月j日'); ?> <?php $this->category(','); ?></small></h4>
 			<?php $this->content(); ?>
 		</div>
-		<div id="postTag">
 
-			<h4>标签 / Tag : <?php $this->tags(',', true, 'none'); ?></h4>
-		</div>
 		<?php include('comments.php'); ?>
 	</div>
 
