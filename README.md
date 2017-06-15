@@ -20,6 +20,10 @@ Demo：[https://www.sstype.com](https://www.sstype.com)
 
 在后台设置中打开*显示友情链接*选项并编辑`links.php`
 
+#### 首页图片
+
+替换img目录下的`banner.jpg`即可
+
 ## 捐赠
 
 ![https://github.com/hiyelang/LyanZ/raw/master/pay.png](https://github.com/hiyelang/LyanZ/raw/master/pay.png)
