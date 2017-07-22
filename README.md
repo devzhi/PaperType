@@ -2,6 +2,8 @@
 
 PaperType,A Typecho Theme
 
+关注我，请点击右上角Star并访问[野狼博客](https://www.sstype.com)
+
 ## 简介
 
 PaperType是一款响应式的Typecho主题。
