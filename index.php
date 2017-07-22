@@ -4,7 +4,7 @@
  * 
  * @package PaperType
  * @author 野狼
- * @version 1.0.0
+ * @version 1.1.0
  * @link https://www.sstype.com
  */?>
 <?php $this->need('header.php'); ?>
